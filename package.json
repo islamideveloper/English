@@ -1,0 +1,37 @@
+{
+    "name": "english",
+    "version": "1.0.0",
+    "description": "This Project is a website for help people to learn english",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "English",
+        "website",
+        "gulp",
+        "es6"
+    ],
+    "author": "Islam Ahmed",
+    "license": "MIT",
+    "devDependencies": {
+        "@babel/core": "^7.14.6",
+        "@babel/preset-env": "^7.14.7",
+        "gulp": "^4.0.2",
+        "gulp-autoprefixer": "^8.0.0",
+        "gulp-babel": "^8.0.0",
+        "gulp-concat": "^2.6.1",
+        "gulp-connect": "^5.7.0",
+        "gulp-imagemin": "^7.1.0",
+        "gulp-minify": "^3.1.0",
+        "gulp-open": "^3.0.1",
+        "gulp-plumber": "^1.2.1",
+        "gulp-pug": "^5.0.0",
+        "gulp-rename": "^2.0.0",
+        "gulp-sass": "^5.0.0",
+        "gulp-sourcemaps": "^3.0.0",
+        "gulp-uglify": "^3.0.2",
+        "pump": "^2.0.1",
+        "sass": "^1.35.2"
+    }
+}
